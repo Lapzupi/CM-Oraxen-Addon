@@ -36,6 +36,11 @@ public final class OraxenAddon extends ItemAddon {
     @Contract(pure = true)
     @Override
     public @NotNull String getVersion() {
-        return "1.0.0";
+        return "1.0.1";
+    }
+
+    @Override
+    public String getUrl() {
+        return "https://github.com/Lapzupi/CM-Oraxen-Addon/releases";
     }
 }

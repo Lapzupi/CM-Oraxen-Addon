@@ -6,7 +6,7 @@
 
     <groupId>com.lapzupi.dev.oraxen</groupId>
     <artifactId>oraxen-addon</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>Oraxen Addon</name>
@@ -19,7 +19,7 @@
         <maven.shade.version>3.3.0</maven.shade.version>
 
         <paper.version>1.19.2-R0.1-SNAPSHOT</paper.version>
-        <cmenu.version>0.1.0</cmenu.version>
+        <cmenu.version>0.2.0</cmenu.version>
         <oraxen.version>-86bffe910f-1</oraxen.version>
     </properties>
     <build>
